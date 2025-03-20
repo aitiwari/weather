@@ -218,7 +218,7 @@ uv run weather.py
 1.  **Install/Update Claude for Desktop:** Ensure you have the latest version installed.
 2.  **Configure MCP Servers:** Open or create the configuration file at `~/Library/Application Support/Claude/claude_desktop_config.json`.
 
-![alt text](screenshot\edit_config.png)
+![alt text](screenshot/edit_config.png)
 
   -> **RESTART THE SYSTEM IF NOT WORKS**
 
@@ -249,7 +249,7 @@ uv run weather.py
 
 1.  **Verify Tool Detection:** Look for the hammer icon in Claude for Desktop. Clicking it should list the `get_alerts` and `get_forecast` tools.
 
-![alt text](screenshot\tools_added.png)
+![alt text](screenshot/tools_added.png)
 2.  **Run Test Queries:**
 
     - "What’s the weather in Sacramento?"
@@ -309,12 +309,11 @@ npx @modelcontextprotocol/inspector uv run weather.py
 
 ```
 
-![alt text](screenshot\inspector_script.png)
+![alt text](screenshot/inspector_script.png)
 
-![alt text](screenshot\inspector_run.png)
+![alt text](screenshot/inspector_run.png)
 
 done with local test
 
 ## Published in Github
- 
  
