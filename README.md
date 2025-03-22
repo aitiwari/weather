@@ -316,4 +316,5 @@ npx @modelcontextprotocol/inspector uv run weather.py
 done with local test
 
 ## Published in Github
+[🔗 Github - aitiwari/weather ](https://github.com/aitiwari/weather)
  
