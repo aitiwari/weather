@@ -1,7 +1,3 @@
-
-
-
-
 # Model Context Protocol (MCP)
 
 [🚀 Why Is Everyone – Suddenly! – Obsessed With MCP/Servers? (Spoiler: It’s Redefining AI Orchestration)](https://www.linkedin.com/pulse/why-everyone-suddenly-obsessed-mcpservers-spoiler-its-sachin-tiwari-7qpnc/?trackingId=Gh6SLtQkP48VXXPdJQ5p%2Fw%3D%3D)
@@ -39,6 +35,7 @@ As of March 2025, MCP has become a significant topic in the AI community, with m
 ---
 
 Model Context Protocol (MCP) - weather quick start :
+=======
 
 ## Overview
 
@@ -131,6 +128,13 @@ Before starting, ensure you have:
 
     ```
 
+### Installing via Smithery
+
+To install weather for Claude Desktop automatically via [Smithery](https://smithery.ai/server/inspect/AjyNptWE6toZxxvDH7nQQw?source=readme):
+
+```bash
+npx -y @smithery/cli install AjyNptWE6toZxxvDH7nQQw --client claude
+```
 
 ## Building the Server
 
