@@ -1,8 +1,5 @@
-
-
-
-
-MCP Weather Server Quickstart
+# MCP Weather Server Quickstart
+[![smithery badge](https://smithery.ai/p/badge/AjyNptWE6toZxxvDH7nQQw?installLabel=install)](https://smithery.ai/server/inspect/AjyNptWE6toZxxvDH7nQQw?source=readme)
 
 ## Overview
 
@@ -95,6 +92,13 @@ Before starting, ensure you have:
 
     ```
 
+### Installing via Smithery
+
+To install weather for Claude Desktop automatically via [Smithery](https://smithery.ai/server/inspect/AjyNptWE6toZxxvDH7nQQw?source=readme):
+
+```bash
+npx -y @smithery/cli install AjyNptWE6toZxxvDH7nQQw --client claude
+```
 
 ## Building the Server
 
